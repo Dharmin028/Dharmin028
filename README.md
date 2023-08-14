@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dharmin Rajkotiya</h1>
 <h3 align="center">A Passionate Programmer</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">	
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0W1s8ykBzrSLHAjEVtbmvM&ust=1692107367680000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIiyg6al3IADFQAAAAAdAAAAABAI">	
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dharmin028&label=Profile%20views&color=0e75b6&style=flat" alt="dharmin028" /> </p>
 
