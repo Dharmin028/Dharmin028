@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/dharmin028" target="blank"><img src="https://img.shields.io/twitter/follow/dharmin028?logo=twitter&style=for-the-badge" alt="dharmin028" /></a> </p>
 
-- 🌱 I’m currently learning **DSA Using Java In NPTEL**
+- 🌱 I’m currently learning **DBMS In NPTEL**
 
 - 📫 Reach me at **dharminrajkotiya2005@gmail.com**
 
