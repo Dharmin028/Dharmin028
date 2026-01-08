@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI-Agent Project <br>🤝 I’m looking for Full time role in AI/ML <br>🌱 I’m currently learning GenAI<br>📫 Reach me at : dharminrajkotiya2005@gmail.com<br>⚡ AI/ML Enthusiast
+🔭 I’m currently working at Thinkwik as Junior Software Engineer<br>🌱 I’m currently learning GenAI<br>📫 Reach me at : dharminrajkotiya2005@gmail.com<br>⚡ AI/ML Enthusiast
 
 
 ## 🌐 Socials:
