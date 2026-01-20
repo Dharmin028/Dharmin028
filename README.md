@@ -18,7 +18,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
----
-[![](https://visitcount.itsvg.in/api?id=Dharmin028&icon=0&color=1)](https://visitcount.itsvg.in)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Dharmin028&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+[![](https://visitcount.itsvg.in/api?id=Dharmin028&icon=10&color=0)](https://visitcount.itsvg.in)
