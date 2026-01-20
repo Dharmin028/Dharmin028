@@ -23,3 +23,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Dharmin028&icon=10&color=0)](https://visitcount.itsvg.in)
+
+[![roadmap.sh](https://roadmap.sh/card/wide/67a445fbf8633434824d7c04?variant=dark&roadmaps=ai-agents)](https://roadmap.sh)
