@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at Thinkwik as Junior Software Engineer<br>👯 I'm looking to collaborate on Open Source Python Project<br>📫 How to reach me dharmin.career@gmail.com<br> 🌱 I'm currently learning FastAPI 
+🔭 I’m currently working at Thinkwik as Junior Software Engineer<br>👯 I'm looking to collaborate on Open Source Python Project<br>📫 Reach me at dharmin.career@gmail.com<br> 🌱 I'm currently learning FastAPI 
 
 
 ## 🌐 Socials:
@@ -21,7 +21,8 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Dharmin028&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
 
+[![roadmap.sh](https://roadmap.sh/card/wide/67a445fbf8633434824d7c04?variant=dark&roadmaps=ai-agents)](https://roadmap.sh)
 ---
 [![](https://visitcount.itsvg.in/api?id=Dharmin028&icon=10&color=0)](https://visitcount.itsvg.in)
 
-[![roadmap.sh](https://roadmap.sh/card/wide/67a445fbf8633434824d7c04?variant=dark&roadmaps=ai-agents)](https://roadmap.sh)
+
