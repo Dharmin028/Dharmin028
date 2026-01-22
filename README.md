@@ -1,4 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=Dharmin028&label=Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=Dharmin028)
 
 # 💫 About Me:
 🔭 I’m currently working at Thinkwik as Junior Software Engineer<br>👯 I'm looking to collaborate on Open Source Python Project<br>📫 Reach me at dharmin.career@gmail.com<br> 🌱 I'm currently learning GenAI 
