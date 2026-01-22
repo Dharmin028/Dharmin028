@@ -1,7 +1,6 @@
+![](https://komarev.com/ghpvc/?username=Dharmin028)
 # 💫 About Me:
 🔭 I’m currently working at Thinkwik as Junior Software Engineer<br>👯 I'm looking to collaborate on Open Source Python Project<br>📫 Reach me at dharmin.career@gmail.com<br> 🌱 I'm currently learning GenAI 
-
-![](https://komarev.com/ghpvc/?username=Dharmin028)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dharmin_0x01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dharmin-rajkotiya) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Dharmin028) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dharmin.career@gmail.com) 
