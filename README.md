@@ -17,6 +17,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 ---
-[![roadmap.sh](https://roadmap.sh/card/wide/67a445fbf8633434824d7c04?variant=dark&roadmaps=ai-agents)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/67a445fbf8633434824d7c04?variant=dark)](https://roadmap.sh)
 
 
