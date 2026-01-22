@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=Dharmin028)
+![](https://komarev.com/ghpvc/?username=Dharmin028&style=flat&color=orange&abbreviated=true)
 # 💫 About Me:
 🔭 I’m currently working at Thinkwik as Junior Software Engineer<br>👯 I'm looking to collaborate on Open Source Python Project<br>📫 Reach me at dharmin.career@gmail.com<br> 🌱 I'm currently learning GenAI 
 
@@ -13,16 +13,10 @@
 ![](https://nirzak-streak-stats.vercel.app?user=Dharmin028&theme=dark)
 ---
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dharmin028&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Dharmin028&theme=shadow_blue&no-frame=true&no-bg=false&margin-w=4)
-
+---
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Dharmin028&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
-
+---
 [![roadmap.sh](https://roadmap.sh/card/wide/67a445fbf8633434824d7c04?variant=dark&roadmaps=ai-agents)](https://roadmap.sh)
 
 
