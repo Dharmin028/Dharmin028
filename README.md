@@ -16,7 +16,7 @@
 ---
 [![roadmap.sh](https://roadmap.sh/card/wide/67a445fbf8633434824d7c04?variant=dark)](https://roadmap.sh)
 ---
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 
